@@ -1,0 +1,3 @@
+A380的驾驶舱位于机身最前方在两层客舱中间的高度，采用双人体制，应用新式的交互式显示屏和由以太网连接的扩展性集成航空电子模块。
+
+驾驶舱有8个液晶显示器。包括2个主要飞航显示器(Primary Flight Displays，PFD)、2个导航显示器(Navigation Displays，ND)、1个发动机参数显示器(Engine Parameter Display)、1个系统显示器(System Display)和2个多功能显示器(Multi-Function Display，MFD)，这2个多功能显示器为飞航管理系统(Flight Management System，FMS)提供操作界面。 

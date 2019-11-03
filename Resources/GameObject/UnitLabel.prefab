@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1293624234883832}
+  m_IsPrefabParent: 1
+--- !u!1 &1293624234883832
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4645237400662140}
+  - component: {fileID: 114192255467431366}
+  m_Layer: 0
+  m_Name: UnitLabel
+  m_TagString: UnitLabel
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4645237400662140
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1293624234883832}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114192255467431366
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1293624234883832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a761e7fbc4618f4b80f125fa45e76a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  unitMembers: []
+  button: {fileID: 0}
+  unitName: 
+  unitContent: 
+  unitColor: {r: 1, g: 0, b: 0, a: 1}
+  unitLoadtexture2D: {fileID: 0}
+  groupOperation: 0
+  operationToolbarOption: 0
+  pointPositionList: []
+  pointRotationList: []
+  hasGears: 1
+  angle_R: 0
+  axis_R: 0
+  gearCount: 1
+  isUpComplete: 0
+  depth: 0
+  axis_P: 0
+  angle_RP_R: 0
+  axis_RP_R: 0
+  depth_RP_P: 0
+  axis_RP_P: 0

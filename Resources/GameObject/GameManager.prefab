@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1145443016392934}
+  m_IsPrefabParent: 1
+--- !u!1 &1145443016392934
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4713610714287140}
+  - component: {fileID: 114403649610470168}
+  - component: {fileID: 114090133083166498}
+  - component: {fileID: 114083945224976660}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: GameManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4713610714287140
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1145443016392934}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114083945224976660
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1145443016392934}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89f94d1f692306546872f952c32c092a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isConnect: 0
+  connectObserverCtrl: {fileID: 0}
+  startObserverCtrl: {fileID: 0}
+  unitRecognitionObserverCtrl: {fileID: 0}
+--- !u!114 &114090133083166498
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1145443016392934}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd52cac2f162c4848b26d17b06b690df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StartPanelCanvas: {fileID: 0}
+  GamePanelCanvas_PC: {fileID: 0}
+  GamePanelCanvas_VR: {fileID: 0}
+  GamePanelCanvas_VR_Follow: {fileID: 0}
+  CameraRigGameObject: {fileID: 0}
+  VRCameraEye: {fileID: 0}
+  titlePanelCtrl: {fileID: 0}
+  unitRecognitionPanelCtrl: {fileID: 0}
+  mainMessageTextCtrl: {fileID: 0}
+  introPanelCtrl: {fileID: 0}
+  observePointPanelCtrl: {fileID: 0}
+  doHandlePanelCtrl: {fileID: 0}
+  startPanelCtrl: {fileID: 0}
+  waitingConnectPanelCtrl: {fileID: 0}
+--- !u!114 &114403649610470168
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1145443016392934}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 448a58b498d1b74449ce6ca4e5e69c95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GameObserverGameObject: {fileID: 0}
+  StartUICanvasGameObject: {fileID: 0}
+  UnitParentGameObject: {fileID: 0}
+  EventSystemGameObject: {fileID: 0}
+  DesktopGameCanvasGameObject: {fileID: 0}
+  VRTK_SDKManagerGameObject: {fileID: 0}
+  VRTK_ScriptsGameObject: {fileID: 0}
+  MainCameraGameObject_PC: {fileID: 0}
+  AudioListener_VR: {fileID: 0}
+  AudioListener_PC: {fileID: 0}
+  TransparentMaterial: {fileID: 2100000, guid: 8a1ed8230d10941478f6cfeda5f6206c, type: 2}
+  StandardMaterial: {fileID: 2100000, guid: 16441171d1139064e9a57a16cda456e3, type: 2}
+  Setting:
+    SceneName: 
+    SceneRemarks: 
+    ClientArray: 00000000010000000200000002000000
+  ModelList: []
+  IntroBoardList: []
+  UnitGroupList: []
+  ID: 0
+  operateMode: 0
+  examMode: 0
+  isMultiplayerCollaboration: 1
+  currentUnitGroup: {fileID: 0}
