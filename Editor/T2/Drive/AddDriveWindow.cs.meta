@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 706e98f95e74bd2408bff45a8fc862a3
+timeCreated: 1495438086
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - meSkin: {fileID: 11400000, guid: b09f5137eca94bc4c9a7fdaea06756f2, type: 2}
+  - unitButton: {fileID: 133252, guid: 2991e9cff6ccf794e9c42ba7b0f9705c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

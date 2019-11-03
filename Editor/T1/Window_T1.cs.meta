@@ -1,0 +1,54 @@
+fileFormatVersion: 2
+guid: 9cd4ce78c45f361458f191d0bec5a704
+timeCreated: 1515751707
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mySkin: {fileID: 11400000, guid: 0191a367bcbbe3149962a1cc7a0cac8d, type: 2}
+  - myFont: {fileID: 12800000, guid: 947d15caba5b0324492d48b6d468fb6e, type: 3}
+  - GameManager: {fileID: 113486, guid: 9f7ff80f23c15c94b9f5579c4bd99e22, type: 2}
+  - DesktopGameCanvasPrefab: {fileID: 1615178143306530, guid: ac5412bdbd26ea54280badf4e8a69a07,
+      type: 2}
+  - DesktopGameCanvasGameObject: {instanceID: 0}
+  - StartUICanvasPrefab: {fileID: 1249667329124564, guid: b209cc8ab25e1e848bfa3187ccc185d5,
+      type: 2}
+  - StartUICanvasGameObject: {instanceID: 0}
+  - EventSystem: {fileID: 152706, guid: dee440f33ad147645920eb83633ecba8, type: 2}
+  - leftUI: {instanceID: 0}
+  - unitButton: {fileID: 123408, guid: d95b46c9458811d498ec86a55eb1cd1e, type: 2}
+  - pointButton: {fileID: 123408, guid: eb57ac92d471c6847b63d821a68e6006, type: 2}
+  - InfoBoardParent: {fileID: 1002924924510458, guid: 096b2eccb5ff8e648845ab48d5eea25f,
+      type: 2}
+  - InfoBoardGameObject: {fileID: 1974997717175402, guid: 904440b5fd3c1c041ab64dab4d83e493,
+      type: 2}
+  - ObservePointParent: {fileID: 1085259030671824, guid: 8c423e8a940916d438e928aea746e423,
+      type: 2}
+  - ObservePointGameObject: {fileID: 1367998647210930, guid: df83398833622544bb52f7734c8db25f,
+      type: 2}
+  - UnitParent: {fileID: 1756796707499162, guid: c71d737240e16f04b80206fb084f605b,
+      type: 2}
+  - UnitGameObject: {fileID: 1293624234883832, guid: c5a14695baad892459e200301f6ca53e,
+      type: 2}
+  - DesktopStartUI: {fileID: 1249667329124564, guid: b209cc8ab25e1e848bfa3187ccc185d5,
+      type: 2}
+  - VRCameraRigGameObject: {fileID: 146900, guid: 4d293c8e162f3874b982baadd71153d2,
+      type: 2}
+  - VRTKGameObject: {instanceID: 0}
+  - VRCanvas_LeftHandMenu: {fileID: 1980493727450726, guid: a57e1880389b8f34dbabe382b013e1ee,
+      type: 2}
+  - VRTK_SDKManagerPrefab: {fileID: 1242000112168700, guid: 67255a4accdebfc41b97f8cc487ab321,
+      type: 2}
+  - VRTK_ScriptsPrefab: {fileID: 1851429366577304, guid: 07f013585013cd1409b05c9e2b38285c,
+      type: 2}
+  - introLoadtexture2D: {instanceID: 0}
+  - currentModel: {instanceID: 0}
+  - unitLoadtexture2D: {instanceID: 0}
+  - unitLoadGameObject: {instanceID: 0}
+  - observePointLoadtexture2D: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

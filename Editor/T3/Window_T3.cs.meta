@@ -1,0 +1,50 @@
+fileFormatVersion: 2
+guid: b4cc18ab862f35745967845f2a3a305d
+timeCreated: 1517792067
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PersistentViewDataDictionary: {instanceID: 0}
+  - mySkin: {fileID: 11400000, guid: f76414900acdc5249a2629ce181c149d, type: 2}
+  - myFont: {fileID: 12800000, guid: 8bed60ca5bfe77c4f81b76cf0b3d085c, type: 3}
+  - waterLine: {fileID: 1582015989389110, guid: 271e3487496a1524eb493719d93a1364,
+      type: 2}
+  - GameManager: {fileID: 1325633905192694, guid: 3d360c5d7153ea548918b78573904c44,
+      type: 2}
+  - DesktopGameCanvasPrefab: {fileID: 1755628286861438, guid: 091df4596032f1d47893547c0f4e3311,
+      type: 2}
+  - DesktopGameCanvasGameObject: {instanceID: 0}
+  - StartUICanvasPrefab: {fileID: 1204038145284254, guid: c2760dacabc16c748ad6bd93abace6da,
+      type: 2}
+  - StartUICanvasGameObject: {instanceID: 0}
+  - VRCameraRigGameObject: {fileID: 146900, guid: 4d293c8e162f3874b982baadd71153d2,
+      type: 2}
+  - VRTKGameObject: {instanceID: 0}
+  - VRCanvas_LeftHandMenu: {fileID: 1980493727450726, guid: a57e1880389b8f34dbabe382b013e1ee,
+      type: 2}
+  - EventSystem: {fileID: 152706, guid: fd394f9a595a7ef4c818e61d48925402, type: 2}
+  - VRTK_SDKManagerPrefab: {fileID: 1487834686648836, guid: 7c28c1c97997f0a43a0d76e55dae221a,
+      type: 2}
+  - VRTK_ScriptsPrefab: {fileID: 1651194992825544, guid: 2854734fa0d8eaa498062f5f663330a3,
+      type: 2}
+  - mainCamera: {fileID: 1115773291099914, guid: 0fe34b37be5ac90498b08e83bd292df8,
+      type: 2}
+  - pipeGroupParent: {fileID: 1404914422563810, guid: 1b6096d95c74e66448f788e9c8339234,
+      type: 2}
+  - pipeGroup: {fileID: 1759554286279954, guid: fc50c99182c7ecf439c50e0c3520674c,
+      type: 2}
+  - stateSetParent: {fileID: 1630586125514714, guid: 5ecebb8b0be2c83449d332a36b4b1a5a,
+      type: 2}
+  - stateSetPrefab: {fileID: 1902459596453774, guid: 7ed90cb185d2fc142985e9df736ef9dd,
+      type: 2}
+  - uiSetParent: {fileID: 1715638927350952, guid: 7ca6013dcf7e239498bc9926947707f3,
+      type: 2}
+  - uiSetPrefab: {fileID: 1748834911417612, guid: 1378cf5be028c81419da8e018c01f589,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
