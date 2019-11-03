@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1eab67691d1537642ae07eca70980d8a
+timeCreated: 1495605098
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ass: {instanceID: 0}
+  - controlPanel: {fileID: 1000013761881808, guid: b65cf401a94261347a59e1b5060ac008,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

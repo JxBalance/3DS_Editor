@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afa238a3fb6d97848b6110fb5d507a5c
+timeCreated: 1503637109
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ass: {instanceID: 0}
+  - disassemblyPanel: {fileID: 1000011191542318, guid: 6a648cf57c5b4e148b9695dc1f48a6a1,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
